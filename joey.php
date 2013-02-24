@@ -1,3 +1,9 @@
 <?php
-	echo 'Hello, Joey is gay!; 
+	echo "Hello friends<br>"; 
+	
+	echo "Joey Change this Line<br>"; 
+	
+	echo "Rico CHange this Line<br>"; 
+	
+	echo "Don;'t touch this!<br>"; 
 ?>
