@@ -1,3 +1,3 @@
 <?php
-	echo 'Hello, Joey!; 
+	echo 'Hello, Joey is gay!; 
 ?>
